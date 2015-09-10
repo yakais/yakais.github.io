@@ -1,1 +1,5 @@
-baseurl: /jekyll_demo
+baseurl:
+url: "http://yakai.me"
+name: Yakai's Blog
+author: Yakai
+email: 978398138@qq.com
